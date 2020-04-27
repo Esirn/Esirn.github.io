@@ -17,6 +17,9 @@ layout: default
             </div>
 
             <div class="label-card">
+                <p>阅读：<span id="busuanzi_value_page_pv"></span></p>
+            </div>
+            <div class="label-card">
                 {% if page.meta %}<i class="fa fa-key"></i>{{ page.meta }}  {% endif %}
             </div>
 
@@ -64,8 +67,11 @@ layout: default
 
         {% include previousAndNext.html %}
 
+		{% if page.comments %}
         <h2 id="comments">Comments</h2>
         {% include comments.html %}
+		{% endif %}
+
 
 
     </div>
