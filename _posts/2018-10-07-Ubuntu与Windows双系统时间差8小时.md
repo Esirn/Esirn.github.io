@@ -1,5 +1,4 @@
 ---
-
 title:		Ubuntu与Windows双系统时间差8小时
 date:		2018-10-07
 layout:		post
@@ -9,7 +8,6 @@ tags:		操作系统 双系统 Ubuntu Windows 时间
 author:		Esirn
 mathjax:	true
 excerpt: 	配置MinGW编译器，Notepad++增加运行命令。
-
 ---
 
 # 原因

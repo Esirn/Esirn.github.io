@@ -1,5 +1,4 @@
 ---
-
 title:		Ubuntu中WPS字体缺失
 date:		2019-03-22
 layout:		post
@@ -9,7 +8,6 @@ tags:		Linux 办公
 author:		Esirn
 mathjax:	true
 excerpt: 	启动WPS for Linux后，出现提示"系统缺失字体" 。出现提示的原因是因为WPS for Linux没有自带windows的字体，只要在Linux系统中加载字体即可。
-
 ---
 
 # 简述

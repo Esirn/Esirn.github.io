@@ -1,5 +1,4 @@
 ---
-
 title:		向Android端Gboard字典导入PC端搜狗细胞词库
 date:		2019-10-12
 layout:		post
@@ -9,7 +8,6 @@ tags:		输入法 Gboard 词库
 author:		Esirn
 mathjax:	true
 excerpt: 	需要[深蓝词库转换2.6](https://github.com/studyzy/imewlconverter/releases)
-
 ---
 
 # 环境

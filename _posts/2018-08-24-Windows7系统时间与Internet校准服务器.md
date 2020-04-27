@@ -1,5 +1,4 @@
 ---
-
 title:		Windows7系统时间与Internet校准服务器
 date:		2018-08-24
 layout:		post
@@ -9,7 +8,6 @@ tags:		操作系统 Windows 源
 author:		Esirn
 mathjax:	true
 excerpt: 	time.apple.com、ntp.sjtu.edu.cn
-
 ---
 
 # 服务器

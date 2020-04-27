@@ -1,5 +1,4 @@
 ---
-
 title:		Windows配置JDK环境
 date:		2018-12-30
 layout:		post
@@ -9,7 +8,6 @@ tags:		开发环境 Windows Java
 author:		Esirn
 mathjax:	true
 excerpt: 	官方各版本下载页面：<a href="https://www.oracle.com/technetwork/java/javase/downloads/index.html">www.oracle.com</a>
-
 ---
 
 # 步骤

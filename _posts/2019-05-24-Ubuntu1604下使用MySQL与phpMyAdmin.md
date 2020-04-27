@@ -1,5 +1,4 @@
 ---
-
 title:		Ubuntu1604下使用MySQL与phpMyAdmin
 date:		2019-05-24
 layout:		post
@@ -9,7 +8,6 @@ tags:		Linux 数据库 图形界面 C++
 author:		Esirn
 mathjax:	true
 excerpt: 	关机大法好 && STFW
-
 ---
 
 # 建议
