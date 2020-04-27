@@ -31,9 +31,9 @@ description_footer: If needed,
 duoshuo_shortname: #hygblog
 disqus_shortname: #esirn
 #gitment
-comment_gitment_repo: Esirn.github.io
-comment_gitment_clientId: 3418d8928bab86ffdf42
-comment_gitment_clientSecret: 4838d85d3a7bc2856c85631fbce3de3e60230bee
+# comment_gitment_repo: #Esirn.github.io
+# comment_gitment_clientId: #3418d8928bab86ffdf42
+# comment_gitment_clientSecret: #4838d85d3a7bc2856c85631fbce3de3e60230bee
 # 来必力
 livere_uid: MTAyMC8zOTUzOC8xNjA2NQ==
 
