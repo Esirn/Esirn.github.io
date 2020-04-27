@@ -7,6 +7,21 @@
 
     {% include header.html %}
 
+        <!-- HTML elements for search -->
+        <input type="text" id="search-input" placeholder="全局搜索">
+        <ul id="results-container"></ul>
+
+        <!-- or without installing anything -->
+        <script src="{{ site.baseurl }}/js/simple-jekyll-search.min.js"></script>
+
+        <script>
+        var sjs = SimpleJekyllSearch({
+            searchInput: document.getElementById('search-input'),
+            resultsContainer: document.getElementById('results-container'),
+            json: '/search.json'
+        })
+        </script>
+    
         {{ content }}
 
     {% include footer.html %}
