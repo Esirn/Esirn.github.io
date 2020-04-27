@@ -64,3 +64,7 @@ excerpt_separator: "\n\n\n\n"
 # paginate
 gems: [jekyll-paginate]
 paginate: 6
+
+# feed：Atom
+feed:
+  path: feed_Atom.xml
