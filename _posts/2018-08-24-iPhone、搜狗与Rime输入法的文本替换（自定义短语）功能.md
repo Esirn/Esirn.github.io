@@ -9,6 +9,8 @@ author:		Esirn
 mathjax:	true
 excerpt: 	
 ---
+* content
+{:toc}
 
 # 前情
 在写“关于win7的Internet时间服务器同步”时，写到“前情”，忽然在想每次都手打“\&emsp;\&emsp;”好麻烦呀，于是在想目前在用的搜狗输入法能不能有类似iPhone的“文本替换”功能，找来找去，还真找到了。

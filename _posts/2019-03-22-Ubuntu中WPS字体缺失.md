@@ -9,6 +9,8 @@ author:		Esirn
 mathjax:	true
 excerpt: 	启动WPS for Linux后，出现提示"系统缺失字体" 。出现提示的原因是因为WPS for Linux没有自带windows的字体，只要在Linux系统中加载字体即可。
 ---
+* content
+{:toc}
 
 # 简述
 启动WPS for Linux后，出现提示"系统缺失字体" 。出现提示的原因是因为WPS for Linux没有自带windows的字体，只要在Linux系统中加载字体即可。

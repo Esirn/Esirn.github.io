@@ -9,6 +9,8 @@ author:		Esirn
 mathjax:	true
 excerpt: 	在“控制面板\所有控制面板项\程序和功能”中对Visio进行“快速修复”
 ---
+* content
+{:toc}
 
 # 前言
 Win10，WPS2019，Visio2016。

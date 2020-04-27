@@ -9,6 +9,8 @@ author:		Esirn
 mathjax:	true
 excerpt: 	官方各版本下载页面：<a href="https://www.oracle.com/technetwork/java/javase/downloads/index.html">www.oracle.com</a>
 ---
+* content
+{:toc}
 
 # 步骤
 以下举例JDK的安装路径为：`D:\Java\jdk1.8.0_241`

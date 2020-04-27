@@ -9,6 +9,8 @@ author:		Esirn
 mathjax:	true
 excerpt: 	转载请注明出处。
 ---
+* content
+{:toc}
 
 # 前情
 今天在清手机相册时，看到了以前在网上看到没舍得删掉的图：

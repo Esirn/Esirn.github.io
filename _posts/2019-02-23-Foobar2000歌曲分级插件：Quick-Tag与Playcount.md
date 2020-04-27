@@ -9,6 +9,8 @@ author:		Esirn
 mathjax:	true
 excerpt: 	Quick-Tag会修改歌曲文件元数据，Playcount会新建数据库。最好还是不要让这两个插件同时运行吧。
 ---
+* content
+{:toc}
 
 # $meta(rating) 与 %rating%
 前者为元数据，即歌曲文件属性中的分级属性（改之则会引发歌曲文件MD5值的变化）；后者在默认情况（无任何插件）下也会读取元数据，但在某些情况下（例如装有Playcount 插件时）会优先读取插件的数据库的数据。

@@ -9,6 +9,8 @@ author:		Esirn
 mathjax:	true
 excerpt: 	time.apple.com、ntp.sjtu.edu.cn
 ---
+* content
+{:toc}
 
 # 服务器
 - time.apple.com

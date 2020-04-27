@@ -9,6 +9,8 @@ author:		Esirn
 mathjax:	true
 excerpt: 	关机大法好 && STFW
 ---
+* content
+{:toc}
 
 # 建议
 - Ubuntu 16.04。因为MySQL对于Ubuntu 18.04不是很适配，会出现终端MySQL无法输入中文等问题。如果用Ubuntu 18.04，会需要多解决很多细节问题。

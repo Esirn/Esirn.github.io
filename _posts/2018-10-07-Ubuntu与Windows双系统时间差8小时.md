@@ -9,6 +9,8 @@ author:		Esirn
 mathjax:	true
 excerpt: 	配置MinGW编译器，Notepad++增加运行命令。
 ---
+* content
+{:toc}
 
 # 原因
 先说下两个概念：
