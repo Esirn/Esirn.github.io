@@ -30,7 +30,7 @@ excerpt: 	官方各版本下载页面：<a href="https://www.oracle.com/technetw
 
 ## 试运行
 随便在一个地方创建“HelloJava.java”文件，用记事本编辑，保存以下简单代码，其实现结果应该是打印出“Hello Java”： 
-~~~
+~~~java
 public class HelloJava{
 	public static void main(String[] args){
 		System.out.println("Hello Java");

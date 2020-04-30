@@ -22,14 +22,14 @@ excerpt: 	关机大法好 && STFW
 
 # 环境部署
 ## 基本环境部署
-~~~
+~~~shell
 sudo apt update
 sudo apt upgrade # 升级当前系统内可更新的内容。若升级项目较多，建议升级完成后重启一下。
 sudo apt install g++ # 安装g++编译器，用于编译C/C++语言。
 ~~~
 
 ## MySQL安装
-~~~
+~~~shell
 sudo apt install mysql-server
 sudo apt install mysql-client
 sudo apt install libmysqlclient-dev
@@ -37,8 +37,8 @@ sudo apt install libmysqlclient-dev
 一路默认，密码设定建议与系统密码相同。
 
 ## 配置MySQL支持中文
-~~~
-sudo mysql -uroot -p #-u是账户，-p代表将要输入密码。
+~~~shell
+sudo mysql -shelluroot -p #-u是账户，-p代表将要输入密码。
 ~~~
 进入到MySQL终端后，输入`show variables like 'character%';`，显示如下：  
 >Variable_name | Value |  
@@ -75,10 +75,10 @@ latin1就是不能正常显示的原因,需要将编码格式更改为utf8格式
 
 # 练手
 ## MySQL
-~~~
+~~~shell
 sudo mysql -uroot -p #-u是账户，-p代表将要输入密码。
 ~~~
-~~~
+~~~sql
 show databases; #显示当前所有数据库
 use mysql;
 show tables;
@@ -95,7 +95,7 @@ insert into student values('2','白','女','1972-05-20');
 `sudo gedit Test.cpp #用gedit编辑器创建并打开一个.cpp文件`  
 填入以下代码，注意将password[]和database[]改为自己的密码和数据库。
 
-~~~
+~~~c++
 #include <mysql/mysql.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -143,7 +143,7 @@ int main()
 }
 ~~~
 
-~~~
+~~~shell
 g++ -W -Wall Test.cpp -o Test.out -lmysqlclient #编译并输出可执行文件Test.o，-l是用到mysqlclient库。
 ./Test.out #执行
 ~~~

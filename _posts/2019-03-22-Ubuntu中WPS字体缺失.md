@@ -26,7 +26,7 @@ excerpt: 	启动WPS for Linux后，出现提示"系统缺失字体" 。出现提
 
 - 下载完成后，解压并进入目录中，继续执行`sudo cp * /usr/share/fonts`
 - 执行以下命令,生成字体的索引信息：
-~~~
+~~~shell
 sudo mkfontscale
 sudo mkfontdir
 ~~~
