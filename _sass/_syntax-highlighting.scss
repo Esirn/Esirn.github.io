@@ -13,15 +13,15 @@ code{
 }
 
 pre {
-    margin: 12px 0;
-     padding: 8px 12px;
-    //  overflow-x: auto;
-     word-wrap: break-word;      /* IE 5.5-7 */
-     white-space: -moz-pre-wrap; /* Firefox 1.0-2.0 */
-     white-space: pre-wrap;      /* current browsers */
+    margin: 1px 0px;
+    padding: 0px 1px;
+    overflow-x: auto;
+    word-wrap: break-word;      /* IE 5.5-7 */
+    white-space: -moz-pre-wrap; /* Firefox 1.0-2.0 */
+    //  white-space: pre-wrap;      /* current browsers */
      > code {
-         margin: 0;
-         padding: 0;
+        margin: 0;
+        padding: 0;
         font-size: 13px;
         color:#d1d1c9;
         border: none;
@@ -33,6 +33,7 @@ pre {
     border-radius: 3px;
 
     background: #272822;
+    pre { background-color: #272822; }
     .hll { background-color: #272822; }
     .c { color: #75715e } /* Comment */
     .err { color: #960050; background-color: #1e0010 } /* Error */
