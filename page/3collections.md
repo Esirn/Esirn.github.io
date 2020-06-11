@@ -9,6 +9,17 @@ type: page
 * content
 {:toc}
 
+# 本博客搭建
+- 托管：[GitHub Pages](https://help.github.com/cn/github/working-with-github-pages/about-github-pages)
+- 静态站点生成器：[Jekyll](https://jekyllrb.com/)
+- 博客主题：[Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io)
+- 评论模块：[LiveRe](https://livere.com/)
+- 网站统计：[百度统计](https://tongji.baidu.com)、[Google Analytics](https://analytics.google.com)、[不蒜子](http://ibruce.info/2015/04/04/busuanzi/)
+- 全局搜索：[Simple-Jekyll-Search](https://github.com/christian-fei/Simple-Jekyll-Search)
+- 参考文档：[JekyllCN](http://jekyllcn.com/docs/home/)、[Jekyll](https://jekyllrb.com/docs/)
+- Pygments代码块样式：[Pygments Syntax Highlighter CSS Theme Files](https://jwarby.github.io/jekyll-pygments-themes/languages/ruby.html)
+- rouge代码块语言识别：[List of supported languages and lexers](https://github.com/rouge-ruby/rouge/wiki/List-of-supported-languages-and-lexers)
+
 # 工具
 ## 视频处理
 - [ShotCut](https://github.com/mltframework/shotcut)：与PR相同为非编（非线性编辑）软件，功能强大但不支持简单的流处理。
