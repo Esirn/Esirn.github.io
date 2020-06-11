@@ -681,7 +681,7 @@ Index	|	title	|	files	|	author	|	Info
 660	|	[Tangrams Deluxe](https://verticalreach.itch.io/tangrams-deluxe)	|	1	|	[VerticalReach](https://verticalreach.itch.io)	|	A tangram is a Chinese logic puzzle where you must fit seven pieces into a target shape without any overlapping.
 661	|	[American Election](https://gregbuchanan.itch.io/american-election)	|	暂无	|	[Greg Buchanan](https://gregbuchanan.itch.io)	|	A Nightmare | Narrative Game (1-2 Hours)
 662	|	[Mausritter](https://losing-games.itch.io/mausritter)	|	5	|	[Losing Games](https://losing-games.itch.io)	|	Sword-and-whiskers roleplaying
-663	|	[BearFX Explosions | Pixel VFX Pack](https://like100bears.itch.io/bearfx-explosions)	|	1	|	[like, a hundred bears](https://like100bears.itch.io)	|	High quality pixel art explosion effects
+663	|	[BearFX Explosions \| Pixel VFX Pack](https://like100bears.itch.io/bearfx-explosions)	|	1	|	[like, a hundred bears](https://like100bears.itch.io)	|	High quality pixel art explosion effects
 664	|	[Lieve Oma](https://vltmn.itch.io/lieve-oma)	|	5	|	[Florian Veltman](https://vltmn.itch.io)	|	It's the season for penny buns, Grandma forced you to come along a bit. But deep down you know it'll do you good.
 665	|	[luminous corridor 0](https://lorenschmidt.itch.io/luminous-corridor-0)	|	3	|	[loren schmidt](https://lorenschmidt.itch.io)	|	the psi crystals have been stolen. a pall of evil hangs over the realm.
 666	|	[Octodad](https://younghorses.itch.io/octodad)	|	2	|	[Young Horses](https://younghorses.itch.io)	|	Loving Father. Caring Husband. Secret Octopus.
@@ -703,7 +703,7 @@ Index	|	title	|	files	|	author	|	Info
 682	|	[Lonely Wolf Treat](https://nomnomnami.itch.io/lonely-wolf-treat)	|	15	|	[Nami](https://nomnomnami.itch.io)	|	the story of a wolf who moves in to a town full of rabbits
 683	|	[Super Bernie World](https://eniko.itch.io/superbernieworld)	|	3	|	[Eniko](https://eniko.itch.io)	|	Join Bernie's movement and transform the United States in this free retro 2D platformer.
 684	|	[Belong](https://aflutter.itch.io/belong)	|	2	|	[Click](https://aflutter.itch.io)	|	Happiness is knowing where you belong. Otome Visual Novel.
-685	|	[Vincent: The Secret of Myers | 文森：梅尔斯的秘密](https://dino999z.itch.io/vincent-the-secret-of-myers)	|	6	|	[dino999z](https://dino999z.itch.io)	|	
+685	|	[Vincent: The Secret of Myers \| 文森：梅尔斯的秘密](https://dino999z.itch.io/vincent-the-secret-of-myers)	|	6	|	[dino999z](https://dino999z.itch.io)	|	
 686	|	[Feud](https://bearwaves.itch.io/feud)	|	4	|	[Bearwaves](https://bearwaves.itch.io)	|	Turn-based abstract strategy game.
 687	|	[ephemera of evalynn cott](https://attemptingent.itch.io/m4tve1)	|	暂无	|	[attempting entertainment](https://attemptingent.itch.io)	|	it's the end of the semester at art school and you're hella late turning in your assignments!
 688	|	[Hermit the sluggish caterpillar of the sea](https://sharpedstonestudios.itch.io/hermit-the-sea-caterpillar)	|	2	|	[Sharped Stone Studios](https://sharpedstonestudios.itch.io)	|	Hermit the lone sluggish caterpillar of the Sea is fighting for his new home.
@@ -1665,7 +1665,7 @@ Index	|	title	|	files	|	author	|	Info
 130	|	[BasketBelle](https://onemrbean.itch.io/basketbelle)	|	1	|	[onemrbean](https://onemrbean.itch.io)	|	Experimental Basketball Adventure
 131	|	[BEACON](https://monothetic.itch.io/beacon)	|	1	|	[monothetic](https://monothetic.itch.io)	|	Sci-fi Action Roguelite. Collect DNA from enemies and mutate yourself to victory!
 132	|	[Bear Acquaintances](https://havocfett.itch.io/bear-acquaintances)	|	1	|	[Havocfett](https://havocfett.itch.io)	|	A game about false identities, murder, life advice, and bears
-133	|	[BearFX Explosions | Pixel VFX Pack](https://like100bears.itch.io/bearfx-explosions)	|	1	|	[like, a hundred bears](https://like100bears.itch.io)	|	High quality pixel art explosion effects
+133	|	[BearFX Explosions \| Pixel VFX Pack](https://like100bears.itch.io/bearfx-explosions)	|	1	|	[like, a hundred bears](https://like100bears.itch.io)	|	High quality pixel art explosion effects
 134	|	[Bear-ly There](https://palemoongames.itch.io/bearly-there)	|	2	|	[Pale Moon Games](https://palemoongames.itch.io)	|	Help Barris bulk up for Winter, we are going to need a lot of food!
 135	|	[Beast Dream](https://zargogames.itch.io/beast-dream)	|	5	|	[Zargo Games](https://zargogames.itch.io)	|	Befriend monsters and go on a grand adventure
 136	|	[Bedtime Bestiary](https://goatmeal-games.itch.io/bedtime-bestiary)	|	2	|	[Goatmeal Games](https://goatmeal-games.itch.io)	|	​This is a game about a child's toys overcoming the terrible creatures of that child’s imagination.
@@ -2947,7 +2947,7 @@ Index	|	title	|	files	|	author	|	Info
 1412	|	[Vignettes](https://skeletonbiz.itch.io/vignettes)	|	2	|	[Skeleton Business](https://skeletonbiz.itch.io)	|	Toyish surprise-o-rama
 1413	|	[Village Monsters](https://josh-bossie.itch.io/village-monsters)	|	3	|	[Josh Bossie](https://josh-bossie.itch.io)	|	Escape to a carefree and colorful village where the monsters are your friends.
 1414	|	[Vilmonic](https://bludgeonsoft.itch.io/vilmonic)	|	7	|	[bludgeonsoft](https://bludgeonsoft.itch.io)	|	Artificial life and genetics evolution simulator sandbox game.
-1415	|	[Vincent: The Secret of Myers | 文森：梅尔斯的秘密](https://dino999z.itch.io/vincent-the-secret-of-myers)	|	6	|	[dino999z](https://dino999z.itch.io)	|	
+1415	|	[Vincent: The Secret of Myers \| 文森：梅尔斯的秘密](https://dino999z.itch.io/vincent-the-secret-of-myers)	|	6	|	[dino999z](https://dino999z.itch.io)	|	
 1416	|	[VIRTUA BLINDS](https://daffodil.itch.io/virtua-blinds)	|	4	|	[daffodil](https://daffodil.itch.io)	|	Keep light out, let light in
 1417	|	[VISIGOTHS vs MALL GOTHS](https://necromancy.itch.io/goths)	|	2	|	[Lucian Kahn (@oh_theogony)](https://necromancy.itch.io)	|	There are a lot of bisexuals.
 1418	|	[Visual Out](https://madameberry.itch.io/visual-out)	|	3	|	[madameberry](https://madameberry.itch.io)	|	Broken.  Abandoned.  Replaced.
