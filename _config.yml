@@ -9,7 +9,7 @@
 title: Esirn's Blog.
 brief-intro: Welcome and Goodbye.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://esirn.github.io/" # the base hostname & protocol for your site
+url: "https://esirn.gitee.io/" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
@@ -41,8 +41,8 @@ livere_uid: MTAyMC8zOTUzOC8xNjA2NQ==
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
-baidu_tongji_id: fed7b87d7f1d38a3ee6256f51fc165fb
-google_analytics_id: UA-125113524-1
+baidu_tongji_id: 6bec4b162fdbc82fc39668cdd3fd2035
+# google_analytics_id: UA-125113524-1
 
 # Build settings
 markdown: kramdown
