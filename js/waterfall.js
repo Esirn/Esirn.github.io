@@ -13,7 +13,7 @@
      * 内容JSON
      */
   var demoContent = [
-    {
+/*     {
       demo_link: 'https://www.bilibili.com/video/BV1RJ411J7rR/',
       img_link: 'https://tse1-mm.cn.bing.net/th/id/OIP.OX78EkuLDyuf7ubrwwKCqAHaEK?w=298&h=167&c=7&o=5&pid=1.7',
       code_link: 'https://nomada.studio/',
@@ -34,7 +34,7 @@
       title: '【Esirn】《Awkward Dimensions Redux》',
       core_tech: '《Awkward Dimensions Redux》',
       description: 'They may be awkward dimensions, but they\'re my dreams...'
-    }
+    } */
   ];
 
   contentInit(demoContent) //内容初始化
